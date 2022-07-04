@@ -46,18 +46,6 @@
                 href="http://sahashirshendu.github.io/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://sahashirshendu.github.io/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sahashirshendu.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://sahashirshendu.github.io/zh-cn/page/"
-                />
-  </url><url>
     <loc>http://sahashirshendu.github.io/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -78,18 +66,6 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="http://sahashirshendu.github.io/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>http://sahashirshendu.github.io/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://sahashirshendu.github.io/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://sahashirshendu.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>
