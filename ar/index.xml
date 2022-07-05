@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>شيرشندو ساها</title>
-        <link>http://sahashirshendu.github.io/ar/</link>
+        <link>https://sahashirshendu.github.io/ar/</link>
         <description>Recent content on شيرشندو ساها</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://sahashirshendu.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://sahashirshendu.github.io/ar/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

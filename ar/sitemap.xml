@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://sahashirshendu.github.io/ar/categories/</loc>
+    <loc>https://sahashirshendu.github.io/ar/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sahashirshendu.github.io/categories/"
+                href="https://sahashirshendu.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://sahashirshendu.github.io/bn/categories/"
+                href="https://sahashirshendu.github.io/bn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://sahashirshendu.github.io/zh-cn/categories/"
+                href="https://sahashirshendu.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://sahashirshendu.github.io/ar/categories/"
+                href="https://sahashirshendu.github.io/ar/categories/"
                 />
   </url><url>
-    <loc>http://sahashirshendu.github.io/ar/tags/</loc>
+    <loc>https://sahashirshendu.github.io/ar/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sahashirshendu.github.io/tags/"
+                href="https://sahashirshendu.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://sahashirshendu.github.io/bn/tags/"
+                href="https://sahashirshendu.github.io/bn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://sahashirshendu.github.io/zh-cn/tags/"
+                href="https://sahashirshendu.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://sahashirshendu.github.io/ar/tags/"
+                href="https://sahashirshendu.github.io/ar/tags/"
                 />
   </url><url>
-    <loc>http://sahashirshendu.github.io/ar/</loc>
+    <loc>https://sahashirshendu.github.io/ar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sahashirshendu.github.io/"
+                href="https://sahashirshendu.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="http://sahashirshendu.github.io/bn/"
+                href="https://sahashirshendu.github.io/bn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://sahashirshendu.github.io/zh-cn/"
+                href="https://sahashirshendu.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://sahashirshendu.github.io/ar/"
+                href="https://sahashirshendu.github.io/ar/"
                 />
   </url>
 </urlset>
