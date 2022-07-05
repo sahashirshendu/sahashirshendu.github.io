@@ -306,36 +306,38 @@
     
     
     <p>$$\left[-\frac{\hbar^2}{2m}\nabla^2+V(\vec{r})\right]\Psi(r,t)=E\Psi(\vec{r},t)$$</p>
-
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+</span></span><span class="line"><span class="cl"><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+</span></span><span class="line"><span class="cl"><span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">linspace</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">pi</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">plot</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">np</span><span class="o">.</span><span class="n">sin</span><span class="p">(</span><span class="n">x</span><span class="p">))</span>
+</span></span><span class="line"><span class="cl"><span class="n">plt</span><span class="o">.</span><span class="n">show</span>
+</span></span></code></pre></td></tr></table>
+</div>
+</div>
 
 
   <div class="collapsable-code">
-    <input id="1" type="checkbox" checked />
+    <input id="1" type="checkbox"  />
     <label for="1">
       <span class="collapsable-code__language">css</span>
       <span class="collapsable-code__title">Really cool snippet</span>
-      <span class="collapsable-code__toggle" data-label-expand="Show" data-label-collapse="Hide"></span>
+      <span class="collapsable-code__toggle" data-label-expand="△" data-label-collapse="▽"></span>
     </label>
     <pre class="language-css" ><code>
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
-
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
-
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
-  }
-}
+import numpy as np
+import matplotlib.pyplot as plt
+x = np.linspace(0, np.pi)
+plt.plot(x, np.sin(x))
+plt.show
 </code></pre>
   </div>
 
