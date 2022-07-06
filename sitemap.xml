@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://sahashirshendu.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://sahashirshendu.github.io/bn/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://sahashirshendu.github.io/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://sahashirshendu.github.io/fa/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sahashirshendu.github.io/about/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/contact/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/archives.fr/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/archives/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/search/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/search.fr/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/series/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/tags/</loc>
+  </url>
+</urlset>
