@@ -2,8 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sahashirshendu.github.io/about/</loc>
+    <lastmod>2019-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/contact/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sahashirshendu.github.io/fr/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sahashirshendu.github.io/archives/"
+                />
+  </url><url>
+    <loc>https://sahashirshendu.github.io/categories/</loc>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://sahashirshendu.github.io/fr/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sahashirshendu.github.io/search/"
+                />
+  </url><url>
+    <loc>https://sahashirshendu.github.io/series/</loc>
+  </url><url>
     <loc>https://sahashirshendu.github.io/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -11,13 +44,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://sahashirshendu.github.io/zh-cn/"
+                hreflang="fr"
+                href="https://sahashirshendu.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://sahashirshendu.github.io/ar/"
+                hreflang="fa"
+                href="https://sahashirshendu.github.io/fa/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -25,69 +58,6 @@
                 href="https://sahashirshendu.github.io/"
                 />
   </url><url>
-    <loc>https://sahashirshendu.github.io/post/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/p/test-post/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/about/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/page/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://sahashirshendu.github.io/bn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://sahashirshendu.github.io/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://sahashirshendu.github.io/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sahashirshendu.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://sahashirshendu.github.io/links/</loc>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/search/</loc>
-  </url><url>
     <loc>https://sahashirshendu.github.io/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="bn"
-                href="https://sahashirshendu.github.io/bn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://sahashirshendu.github.io/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://sahashirshendu.github.io/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sahashirshendu.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://sahashirshendu.github.io/categories/test/</loc>
   </url>
 </urlset>
