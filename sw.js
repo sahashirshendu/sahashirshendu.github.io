@@ -2,12 +2,8 @@ const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
     '/img/avatar.png',
-    '/icons/android-chrome-192x192.png',
-    '/icons/android-chrome-384x384.png',
-    '/icons/android-chrome-512x512.png',
     '/icons/apple-touch-icon-144x144.png',
     '/icons/apple-touch-icon-152x152.png',
-    '/icons/favicon.ico',
     '/icons/favicon-128.png',
     '/icons/favicon-196x196.png',
     '/icons/splash.png',
