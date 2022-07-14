@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorial on Shirshendu Saha</title>
+    <link>https://sahashirshendu.github.io/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Shirshendu Saha</description>
+    <image>
+      <url>https://sahashirshendu.github.io/img/avatar.png</url>
+      <link>https://sahashirshendu.github.io/img/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Jul 2022 22:37:18 +0530</lastBuildDate><atom:link href="https://sahashirshendu.github.io/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Linux Commands</title>
+      <link>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</link>
+      <pubDate>Thu, 14 Jul 2022 22:37:18 +0530</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</guid>
+      <description>&lt;p&gt;Some useful linux commands.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
