@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/computation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 22:37:18 +0530</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/computation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basic Linux Commands</title>
+      <link>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</link>
+      <pubDate>Thu, 14 Jul 2022 22:37:18 +0530</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</guid>
+      <description>&lt;p&gt;Some useful linux commands.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>PHYS04C8 Laboratory</title>
       <link>https://sahashirshendu.github.io/posts/computation/fortranmmthree/</link>
