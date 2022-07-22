@@ -7,8 +7,6 @@ const BASE_CACHE_FILES = [
     '/icons/favicon-128.png',
     '/icons/favicon-196x196.png',
     '/icons/splash.png',
-    '/assets/css/stylesheet.d236b1225b5c71d9591b8e31c717f979daeab4458c337919dfea21bfd9bbe97d.css',
-    '/assets/js/search.70e36f7bbbdb05290ddfd8302cca732afd0f6cab030277ec040ad2ecd678e9df.js',
     '/index.json',
     '/manifest.json',
 ];
@@ -16,8 +14,6 @@ const BASE_CACHE_FILES = [
 const OFFLINE_CACHE_FILES = [
     '/img/avatar.png',
     '/icons/splash.png',
-    '/assets/css/stylesheet.d236b1225b5c71d9591b8e31c717f979daeab4458c337919dfea21bfd9bbe97d.css',
-    '/assets/js/search.70e36f7bbbdb05290ddfd8302cca732afd0f6cab030277ec040ad2ecd678e9df.js',
     '/index.json',
     '/manifest.json',
 ];
