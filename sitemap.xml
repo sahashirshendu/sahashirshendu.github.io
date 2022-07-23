@@ -2,25 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/posts/computation/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/tags/linux/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/posts/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
-    <loc>https://sahashirshendu.github.io/tags/</loc>
-    <lastmod>2022-07-14T22:37:18+05:30</lastmod>
-  </url><url>
     <loc>https://sahashirshendu.github.io/about/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/posts/astrodse/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sahashirshendu.github.io/posts/firstpost/</loc>
@@ -29,7 +14,22 @@
     <loc>https://sahashirshendu.github.io/tags/fortran/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sahashirshendu.github.io/posts/computation/fortranmmthree/</loc>
+    <loc>https://sahashirshendu.github.io/tags/linux/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/posts/fortranmmthree/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/posts/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/posts/statmechlab/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sahashirshendu.github.io/tags/</loc>
     <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sahashirshendu.github.io/archives/</loc>

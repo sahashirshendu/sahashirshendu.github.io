@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jul 2022 22:37:18 +0530</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astronomy &amp; Astrophysics Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/astrodse/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>https://sahashirshendu.github.io/posts/firstpost/</link>
@@ -18,6 +27,24 @@
       
       <guid>https://sahashirshendu.github.io/posts/firstpost/</guid>
       <description>First Post in this site</description>
+    </item>
+    
+    <item>
+      <title>Mathematical Methods - III Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/fortranmmthree/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/fortranmmthree/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
+    </item>
+    
+    <item>
+      <title>Statistical Mechanics Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/statmechlab/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/statmechlab/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
     </item>
     
   </channel>

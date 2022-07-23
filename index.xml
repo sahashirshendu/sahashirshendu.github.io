@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jul 2022 22:37:18 +0530</lastBuildDate><atom:link href="https://sahashirshendu.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Basic Linux Commands</title>
-      <link>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</link>
-      <pubDate>Thu, 14 Jul 2022 22:37:18 +0530</pubDate>
-      
-      <guid>https://sahashirshendu.github.io/posts/computation/linuxcmdbasic/</guid>
-      <description>&lt;p&gt;Some useful linux commands.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://sahashirshendu.github.io/about/</link>
@@ -27,6 +18,15 @@
       
       <guid>https://sahashirshendu.github.io/about/</guid>
       <description>Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod.</description>
+    </item>
+    
+    <item>
+      <title>Astronomy &amp; Astrophysics Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/astrodse/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
     </item>
     
     <item>
@@ -39,11 +39,20 @@
     </item>
     
     <item>
-      <title>PHYS04C8 Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/computation/fortranmmthree/</link>
+      <title>Mathematical Methods - III Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/fortranmmthree/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sahashirshendu.github.io/posts/computation/fortranmmthree/</guid>
+      <guid>https://sahashirshendu.github.io/posts/fortranmmthree/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
+    </item>
+    
+    <item>
+      <title>Statistical Mechanics Laboratory</title>
+      <link>https://sahashirshendu.github.io/posts/statmechlab/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/statmechlab/</guid>
       <description>Fortran programmes used in Mathematical Methods - III Lab</description>
     </item>
     
