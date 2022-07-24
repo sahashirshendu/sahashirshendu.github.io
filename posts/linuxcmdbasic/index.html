@@ -129,8 +129,8 @@
   "keywords": [
     "Linux"
   ],
-  "articleBody": "Some useful linux commands.\nUpdating the system: Distribution Command Debian, Ubuntu, … sudo apt update \u0026\u0026 sudo apt upgrade Fedora, … sudo dnf update Arch, Manjaro, … sudo pacman -Syu KDE Neon sudo pkcon refresh \u0026\u0026 sudo pkcon update Installing a package: Distribution Command Debian, Ubuntu, … sudo apt install packagename Fedora, … sudo dnf install packagename Arch, Manjaro, … sudo pacman -S packagename For example, for installing gfortran,\n1 2 3 sudo apt install gfortran # Ubuntu sudo dnf install gfortran # Fedora sudo pacman -S gcc-fortran # Arch File Operations: Command Description mkdir dirname Create a new directory with the provided name, path cd dirname sudo dnf install packagename pwd Print the path of present working directory ls List files in the current directory ls -a List all files in the current directory (i.e., including hidden files) ls -l List files in the current directory in long list format ls -la List all files in the current directory in long list format cp file1 file2 Copy file1 to create file2 mv file1 file2 Move file1 to file2 rm file Delete file (not to Trash, but permanently) Summary - Setting up Fortran in Ubuntu: In terminal, run:\n1 2 3 sudo apt update \u0026\u0026 sudo apt upgrade sudo apt clean sudo apt install gedit gfortran gnuplot Next create a folder where the files are to be stored and go there,\n1 2 mkdir ~/Fortran cd ~/Fortran Create the fortran file,\n1 gedit file.f # gedit or nano or micro or whatever editor you like Compile and run the file,\n1 2 3 4 5 6 7 # Compile # f77 file.f # for Fortran 77 Files f95 file.f90 # for \u003e= Fortran 90 Files gfortran file.f # generic # Run # ./a.out One can even set up a bash function to compile and execute any fortran file in one shot. To do that insert the following in ~/.bashrc :\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 ft () { if [ -x \"$(command -v f95)\" ]; then if [ -x \"$(command -v f77)\" ]; then if [ -f $1 ] ; then case $1 in *.f90 | *.f95) f95 $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; *.f) f77 $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; esac fi else if [ -f $1 ] ; then case $1 in *.f90 | *.f95 | *.f) gfortran $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; esac fi fi else echo 'Fortran is not installed!' fi } Usage,\n1 ft file.f For more, … Refer to : Basic UNIX Commands ",
-  "wordCount" : "440",
+  "articleBody": "Some useful linux commands.\nUpdating the system: Distribution Command Debian, Ubuntu, … sudo apt update \u0026\u0026 sudo apt upgrade Fedora, … sudo dnf update Arch, Manjaro, … sudo pacman -Syu KDE Neon sudo pkcon refresh \u0026\u0026 sudo pkcon update Installing a package: Distribution Command Debian, Ubuntu, … sudo apt install packagename Fedora, … sudo dnf install packagename Arch, Manjaro, … sudo pacman -S packagename For example, for installing gfortran,\n1 2 3 sudo apt install gfortran # Ubuntu sudo dnf install gfortran # Fedora sudo pacman -S gcc-fortran # Arch File Operations: Command Description mkdir dirname Create a new directory with the provided name, path cd dirname Go to the directory dirname; cd .. to go one level up and so on pwd Print the path of present working directory ls List files in the current directory ls -a List all files in the current directory (i.e., including hidden files) ls -l List files in the current directory in long list format ls -la List all files in the current directory in long list format cp file1 file2 Copy file1 to create file2 mv file1 file2 Move file1 to file2 rm file Delete file (not to Trash, but permanently) wc file Prints the number of lines, words, and characters in file chmod options file Change read, write, and execute permissions on file Summary - Setting up Fortran in Ubuntu: In terminal, run:\n1 2 3 sudo apt update \u0026\u0026 sudo apt upgrade sudo apt clean sudo apt install gedit gfortran gnuplot Next create a folder where the files are to be stored and go there,\n1 2 mkdir ~/Fortran cd ~/Fortran Create the fortran file,\n1 gedit file.f # gedit or nano or micro or whatever editor you like Compile and run the file,\n1 2 3 4 5 6 7 # Compile # f77 file.f # for Fortran 77 Files f95 file.f90 # for \u003e= Fortran 90 Files gfortran file.f # generic # Run # ./a.out One can even set up a bash function to compile and execute any fortran file in one shot. To do that insert the following in ~/.bashrc :\n1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 ft () { if [ -x \"$(command -v f95)\" ]; then if [ -x \"$(command -v f77)\" ]; then if [ -f $1 ] ; then case $1 in *.f90 | *.f95) f95 $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; *.f) f77 $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; esac fi else if [ -f $1 ] ; then case $1 in *.f90 | *.f95 | *.f) gfortran $1 \u0026\u0026 ./a.out \u0026\u0026 rm a.out ;; esac fi fi else echo 'Fortran is not installed!' fi } Usage,\n1 ft file.f For more, … Refer to : Basic UNIX Commands ",
+  "wordCount" : "474",
   "inLanguage": "en",
   "datePublished": "2022-07-14T00:00:00Z",
   "dateModified": "2022-07-14T00:00:00Z",
@@ -226,7 +226,7 @@
     <h1 class="post-title">
       Basic Linux Commands
     </h1>
-    <div class="post-meta"><span title='2022-07-14 00:00:00 +0000 UTC'>July 14, 2022</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;440 words&nbsp;·&nbsp;Shirshendu Saha
+    <div class="post-meta"><span title='2022-07-14 00:00:00 +0000 UTC'>July 14, 2022</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;474 words&nbsp;·&nbsp;Shirshendu Saha
 
 </div>
   </header> <div class="toc">
@@ -331,7 +331,7 @@
 </tr>
 <tr>
 <td><code>cd dirname</code></td>
-<td><code>sudo dnf install packagename</code></td>
+<td>Go to the directory <code>dirname</code>; <code>cd ..</code> to go one level up and so on</td>
 </tr>
 <tr>
 <td><code>pwd</code></td>
@@ -363,7 +363,15 @@
 </tr>
 <tr>
 <td><code>rm file</code></td>
-<td>Delete <code>file</code> (not to Trash, but permanently)</td>
+<td>Delete <code>file</code> (not to <code>Trash</code>, but permanently)</td>
+</tr>
+<tr>
+<td><code>wc file</code></td>
+<td>Prints the number of lines, words, and characters in <code>file</code></td>
+</tr>
+<tr>
+<td><code>chmod options file</code></td>
+<td>Change read, write, and execute permissions on <code>file</code></td>
 </tr>
 </tbody>
 </table>
