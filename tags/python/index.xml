@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Shirshendu Saha</title>
-    <link>https://sahashirshendu.github.io/posts/</link>
-    <description>Recent content in Posts on Shirshendu Saha</description>
+    <title>Python on Shirshendu Saha</title>
+    <link>https://sahashirshendu.github.io/tags/python/</link>
+    <description>Recent content in Python on Shirshendu Saha</description>
     <image>
       <url>https://sahashirshendu.github.io/img/avatar.webp</url>
       <link>https://sahashirshendu.github.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astronomy &amp; Astrophysics Laboratory</title>
       <link>https://sahashirshendu.github.io/posts/astrodse/</link>
@@ -18,24 +18,6 @@
       
       <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
       <description>Fortran programmes used in Astronomy &amp;amp; Astrophysics Laboratory</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://sahashirshendu.github.io/posts/firstpost/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sahashirshendu.github.io/posts/firstpost/</guid>
-      <description>First Post in this site</description>
-    </item>
-    
-    <item>
-      <title>Mathematical Methods - III Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/mmthree/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sahashirshendu.github.io/posts/mmthree/</guid>
-      <description>Fortran programmes used in Mathematical Methods - III (PHYS04C8) Lab</description>
     </item>
     
     <item>

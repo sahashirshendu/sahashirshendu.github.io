@@ -12,21 +12,12 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/fortran/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Astronomy &amp; Astrophysics Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/astrodse/</link>
-      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
-      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
-    </item>
-    
-    <item>
       <title>Mathematical Methods - III Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/fortranmmthree/</link>
+      <link>https://sahashirshendu.github.io/posts/mmthree/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sahashirshendu.github.io/posts/fortranmmthree/</guid>
-      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
+      <guid>https://sahashirshendu.github.io/posts/mmthree/</guid>
+      <description>Fortran programmes used in Mathematical Methods - III (PHYS04C8) Lab</description>
     </item>
     
     <item>
@@ -35,7 +26,7 @@
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
       <guid>https://sahashirshendu.github.io/posts/statmechlab/</guid>
-      <description>Fortran programmes used in Mathematical Methods - III Lab</description>
+      <description>Fortran programmes used in Statistical Mechanics (PHYS05C12) Laboratory</description>
     </item>
     
   </channel>
