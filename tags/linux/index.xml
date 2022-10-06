@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Shirshendu Saha</title>
-    <link>https://shirshendusaha.gitlab.io/tags/linux/</link>
+    <link>https://sahashirshendu.github.io/tags/linux/</link>
     <description>Recent content in Linux on Shirshendu Saha</description>
     <image>
-      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
-      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
+      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
+      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shirshendusaha.gitlab.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Linux Commands</title>
-      <link>https://shirshendusaha.gitlab.io/posts/linuxcmdbasic/</link>
+      <link>https://sahashirshendu.github.io/posts/linuxcmdbasic/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/linuxcmdbasic/</guid>
+      <guid>https://sahashirshendu.github.io/posts/linuxcmdbasic/</guid>
       <description>&lt;p&gt;Some useful linux commands.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Mathematical Methods - III Laboratory</title>
-      <link>https://shirshendusaha.gitlab.io/posts/mmthree/</link>
+      <link>https://sahashirshendu.github.io/posts/mmthree/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/mmthree/</guid>
+      <guid>https://sahashirshendu.github.io/posts/mmthree/</guid>
       <description>Fortran programmes used in Mathematical Methods - III (PHYS04C8) Lab</description>
     </item>
     

@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Shirshendu Saha</title>
-    <link>https://shirshendusaha.gitlab.io/categories/</link>
+    <link>https://sahashirshendu.github.io/categories/</link>
     <description>Recent content in Categories on Shirshendu Saha</description>
     <image>
-      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
-      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
+      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
+      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://shirshendusaha.gitlab.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://sahashirshendu.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Shirshendu Saha</title>
-    <link>https://shirshendusaha.gitlab.io/tags/</link>
+    <link>https://sahashirshendu.github.io/tags/</link>
     <description>Recent content in Tags on Shirshendu Saha</description>
     <image>
-      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
-      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
+      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
+      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shirshendusaha.gitlab.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://shirshendusaha.gitlab.io/tags/linux/</link>
+      <link>https://sahashirshendu.github.io/tags/linux/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/linux/</guid>
+      <guid>https://sahashirshendu.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fortran</title>
-      <link>https://shirshendusaha.gitlab.io/tags/fortran/</link>
+      <link>https://sahashirshendu.github.io/tags/fortran/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/fortran/</guid>
+      <guid>https://sahashirshendu.github.io/tags/fortran/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Physics</title>
-      <link>https://shirshendusaha.gitlab.io/tags/physics/</link>
+      <link>https://sahashirshendu.github.io/tags/physics/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/physics/</guid>
+      <guid>https://sahashirshendu.github.io/tags/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://shirshendusaha.gitlab.io/tags/python/</link>
+      <link>https://sahashirshendu.github.io/tags/python/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/python/</guid>
+      <guid>https://sahashirshendu.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://shirshendusaha.gitlab.io/tags/git/</link>
+      <link>https://sahashirshendu.github.io/tags/git/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/git/</guid>
+      <guid>https://sahashirshendu.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>post</title>
-      <link>https://shirshendusaha.gitlab.io/tags/post/</link>
+      <link>https://sahashirshendu.github.io/tags/post/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/post/</guid>
+      <guid>https://sahashirshendu.github.io/tags/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>https://shirshendusaha.gitlab.io/tags/tech/</link>
+      <link>https://sahashirshendu.github.io/tags/tech/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/tags/tech/</guid>
+      <guid>https://sahashirshendu.github.io/tags/tech/</guid>
       <description></description>
     </item>
     
