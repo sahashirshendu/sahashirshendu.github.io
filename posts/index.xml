@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Shirshendu Saha</title>
-    <link>https://shirshendusaha.gitlab.io/posts/</link>
+    <link>https://sahashirshendu.github.io/posts/</link>
     <description>Recent content in Posts on Shirshendu Saha</description>
     <image>
       <title>Shirshendu Saha</title>
-      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
-      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
+      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
+      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shirshendusaha.gitlab.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Linux Commands</title>
-      <link>https://shirshendusaha.gitlab.io/posts/linuxcmdbasic/</link>
+      <link>https://sahashirshendu.github.io/posts/linuxcmdbasic/</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/linuxcmdbasic/</guid>
+      <guid>https://sahashirshendu.github.io/posts/linuxcmdbasic/</guid>
       <description>&lt;p&gt;Some useful linux commands.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Astronomy &amp; Astrophysics Laboratory</title>
-      <link>https://shirshendusaha.gitlab.io/posts/astrodse/</link>
+      <link>https://sahashirshendu.github.io/posts/astrodse/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/astrodse/</guid>
+      <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
       <description>Fortran programmes used in Astronomy &amp;amp; Astrophysics Laboratory</description>
     </item>
     
     <item>
       <title>Mathematical Methods - III Laboratory</title>
-      <link>https://shirshendusaha.gitlab.io/posts/mmthree/</link>
+      <link>https://sahashirshendu.github.io/posts/mmthree/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/mmthree/</guid>
+      <guid>https://sahashirshendu.github.io/posts/mmthree/</guid>
       <description>Fortran programmes used in Mathematical Methods - III (PHYS04C8) Lab</description>
     </item>
     
     <item>
       <title>Statistical Mechanics Laboratory</title>
-      <link>https://shirshendusaha.gitlab.io/posts/statmechlab/</link>
+      <link>https://sahashirshendu.github.io/posts/statmechlab/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/statmechlab/</guid>
+      <guid>https://sahashirshendu.github.io/posts/statmechlab/</guid>
       <description>Fortran programmes used in Statistical Mechanics (PHYS05C12) Laboratory</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://shirshendusaha.gitlab.io/posts/firstpost/</link>
+      <link>https://sahashirshendu.github.io/posts/firstpost/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/firstpost/</guid>
+      <guid>https://sahashirshendu.github.io/posts/firstpost/</guid>
       <description>First Post in this site</description>
     </item>
     
     <item>
       <title>How to Back Up Code with a Bit of Git</title>
-      <link>https://shirshendusaha.gitlab.io/posts/backupgit/</link>
+      <link>https://sahashirshendu.github.io/posts/backupgit/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://shirshendusaha.gitlab.io/posts/backupgit/</guid>
+      <guid>https://sahashirshendu.github.io/posts/backupgit/</guid>
       <description>Using Git and basic command-line tools to back up and sync various code. You can use the setup to store something like a bunch of code files, and copy them to any machine you want and also sync the changes made.
 Setting up the Repository 0. Prerequisites We need to have git installed on our computer and a functional internet connection. Now, there is a point worth noting. The sync works seamlessly only if one has one&amp;rsquo;s git credentials stored or cached [Otherwise you must enter your git username and password for every pull or push command] .</description>
     </item>
