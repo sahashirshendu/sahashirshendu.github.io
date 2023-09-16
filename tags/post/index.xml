@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>post on Shirshendu Saha</title>
-    <link>https://sahashirshendu.github.io/tags/post/</link>
+    <link>https://shirshendusaha.gitlab.io/tags/post/</link>
     <description>Recent content in post on Shirshendu Saha</description>
     <image>
       <title>Shirshendu Saha</title>
-      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
-      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
+      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
+      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shirshendusaha.gitlab.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Back Up Code with a Bit of Git</title>
-      <link>https://sahashirshendu.github.io/posts/backupgit/</link>
+      <link>https://shirshendusaha.gitlab.io/posts/backupgit/</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sahashirshendu.github.io/posts/backupgit/</guid>
+      <guid>https://shirshendusaha.gitlab.io/posts/backupgit/</guid>
       <description>Using Git and basic command-line tools to back up and sync various code. You can use the setup to store something like a bunch of code files, and copy them to any machine you want and also sync the changes made.
 Setting up the Repository 0. Prerequisites We need to have git installed on our computer and a functional internet connection. Now, there is a point worth noting. The sync works seamlessly only if one has one&amp;rsquo;s git credentials stored or cached [Otherwise you must enter your git username and password for every pull or push command] .</description>
     </item>

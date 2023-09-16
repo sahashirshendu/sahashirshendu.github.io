@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Physics on Shirshendu Saha</title>
-    <link>https://sahashirshendu.github.io/tags/physics/</link>
+    <link>https://shirshendusaha.gitlab.io/tags/physics/</link>
     <description>Recent content in Physics on Shirshendu Saha</description>
     <image>
       <title>Shirshendu Saha</title>
-      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
-      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
+      <url>https://shirshendusaha.gitlab.io/img/avatar.webp</url>
+      <link>https://shirshendusaha.gitlab.io/img/avatar.webp</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://shirshendusaha.gitlab.io/tags/physics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Astronomy &amp; Astrophysics Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/astrodse/</link>
+      <link>https://shirshendusaha.gitlab.io/posts/astrodse/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sahashirshendu.github.io/posts/astrodse/</guid>
+      <guid>https://shirshendusaha.gitlab.io/posts/astrodse/</guid>
       <description>Fortran programmes used in Astronomy &amp;amp; Astrophysics Laboratory</description>
     </item>
     
     <item>
       <title>Statistical Mechanics Laboratory</title>
-      <link>https://sahashirshendu.github.io/posts/statmechlab/</link>
+      <link>https://shirshendusaha.gitlab.io/posts/statmechlab/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sahashirshendu.github.io/posts/statmechlab/</guid>
+      <guid>https://shirshendusaha.gitlab.io/posts/statmechlab/</guid>
       <description>Fortran programmes used in Statistical Mechanics (PHYS05C12) Laboratory</description>
     </item>
     
