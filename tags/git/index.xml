@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://sahashirshendu.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virt-Manager: Virtual Machines in Linux</title>
+      <link>https://sahashirshendu.github.io/posts/virtmgr/</link>
+      <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sahashirshendu.github.io/posts/virtmgr/</guid>
+      <description>Using Git and basic command-line tools to back up and sync various code. You can use the setup to store something like a bunch of code files, and copy them to any machine you want and also sync the changes made.
+Setting up the Repository 0. Prerequisites We need to have git installed on our computer and a functional internet connection. Now, there is a point worth noting. The sync works seamlessly only if one has one&amp;rsquo;s git credentials stored or cached [Otherwise you must enter your git username and password for every pull or push command] .</description>
+    </item>
+    
     <item>
       <title>How to Back Up Code with a Bit of Git</title>
       <link>https://sahashirshendu.github.io/posts/backupgit/</link>
