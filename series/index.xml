@@ -2,14 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Shirshendu Saha</title>
-    <link>https://sahashirshendu.github.io/series/</link>
+    <link>https://shirshendusaha.com/series/</link>
     <description>Recent content in Series on Shirshendu Saha</description>
     <image>
       <title>Shirshendu Saha</title>
-      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
-      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
+      <url>https://shirshendusaha.com/img/avatar.webp</url>
+      <link>https://shirshendusaha.com/img/avatar.webp</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://sahashirshendu.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.128.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shirshendusaha.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://shirshendusaha.com/series/papermod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/series/papermod/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

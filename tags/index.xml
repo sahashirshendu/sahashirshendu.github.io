@@ -4,8 +4,21 @@
     <title>Tags on Shirshendu Saha</title>
     <link>https://shirshendusaha.com/tags/</link>
     <description>Recent content in Tags on Shirshendu Saha</description>
+    <image>
+      <title>Shirshendu Saha</title>
+      <url>https://shirshendusaha.com/img/avatar.webp</url>
+      <link>https://shirshendusaha.com/img/avatar.webp</link>
+    </image>
     <generator>Hugo -- 0.128.0</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shirshendusaha.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperMod</title>
+      <link>https://shirshendusaha.com/tags/papermod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/tags/papermod/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -2,14 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bnseries on Shirshendu Saha</title>
-    <link>https://sahashirshendu.github.io/bn/bnseries/</link>
+    <link>https://shirshendusaha.com/bn/bnseries/</link>
     <description>Recent content in Bnseries on Shirshendu Saha</description>
     <image>
       <title>Shirshendu Saha</title>
-      <url>https://sahashirshendu.github.io/img/avatar.webp</url>
-      <link>https://sahashirshendu.github.io/img/avatar.webp</link>
+      <url>https://shirshendusaha.com/img/avatar.webp</url>
+      <link>https://shirshendusaha.com/img/avatar.webp</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>bn</language><atom:link href="https://sahashirshendu.github.io/bn/bnseries/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- 0.128.0</generator>
+    <language>bn</language>
+    <atom:link href="https://shirshendusaha.com/bn/bnseries/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

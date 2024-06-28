@@ -4,8 +4,49 @@
     <title>Shirshendu Saha</title>
     <link>https://shirshendusaha.com/</link>
     <description>Recent content on Shirshendu Saha</description>
+    <image>
+      <title>Shirshendu Saha</title>
+      <url>https://shirshendusaha.com/img/avatar.webp</url>
+      <link>https://shirshendusaha.com/img/avatar.webp</link>
+    </image>
     <generator>Hugo -- 0.128.0</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shirshendusaha.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Installation | Update</title>
+      <link>https://shirshendusaha.com/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/posts/papermod/papermod-installation/</guid>
+      <description>Read Install and Update instructions here</description>
+    </item>
+    <item>
+      <title>Features</title>
+      <link>https://shirshendusaha.com/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://shirshendusaha.com/about/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/about/</guid>
+      <description>Lorem ipsum dolor sit amet, officia excepteur ex fugiat reprehenderit enim labore culpa sint ad nisi Lorem pariatur mollit ex esse exercitation amet. Nisi anim cupidatat excepteur officia. Reprehenderit nostrud nostrud ipsum Lorem est aliquip amet voluptate voluptate dolor minim nulla est proident. Nostrud officia pariatur ut officia. Sit irure elit esse ea nulla sunt ex occaecat reprehenderit commodo officia dolor Lorem duis laboris cupidatat officia voluptate. Culpa proident adipisicing id nulla nisi laboris ex in Lorem sunt duis officia eiusmod.</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>https://shirshendusaha.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/contact/</guid>
+      <description>Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat. $$\LaTeX$$</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://shirshendusaha.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shirshendusaha.com/projects/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

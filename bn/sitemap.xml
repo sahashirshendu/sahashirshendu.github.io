@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sahashirshendu.github.io/bn/bncategories/</loc>
+    <loc>https://shirshendusaha.com/bn/bncategories/</loc>
   </url><url>
-    <loc>https://sahashirshendu.github.io/bn/bnseries/</loc>
+    <loc>https://shirshendusaha.com/bn/bnseries/</loc>
   </url><url>
-    <loc>https://sahashirshendu.github.io/bn/bntags/</loc>
+    <loc>https://shirshendusaha.com/bn/bntags/</loc>
   </url><url>
-    <loc>https://sahashirshendu.github.io/bn/</loc>
+    <loc>https://shirshendusaha.com/bn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sahashirshendu.github.io/"
+                href="https://shirshendusaha.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
-                href="https://sahashirshendu.github.io/bn/"
+                href="https://shirshendusaha.com/bn/"
                 />
   </url>
 </urlset>

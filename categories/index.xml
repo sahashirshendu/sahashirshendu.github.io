@@ -4,8 +4,13 @@
     <title>Categories on Shirshendu Saha</title>
     <link>https://shirshendusaha.com/categories/</link>
     <description>Recent content in Categories on Shirshendu Saha</description>
+    <image>
+      <title>Shirshendu Saha</title>
+      <url>https://shirshendusaha.com/img/avatar.webp</url>
+      <link>https://shirshendusaha.com/img/avatar.webp</link>
+    </image>
     <generator>Hugo -- 0.128.0</generator>
-    <language>en-us</language>
+    <language>en</language>
     <atom:link href="https://shirshendusaha.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
