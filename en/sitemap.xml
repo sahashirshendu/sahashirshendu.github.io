@@ -2,20 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shirshendusaha.com/posts/papermod/papermod-installation/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shirshendusaha.com/posts/papermod/papermod-features/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shirshendusaha.com/about/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shirshendusaha.com/posts/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shirshendusaha.com/</loc>
-    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="bn"
@@ -27,17 +18,8 @@
                 href="https://shirshendusaha.com/"
                 />
   </url><url>
-    <loc>https://shirshendusaha.com/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shirshendusaha.com/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shirshendusaha.com/series/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shirshendusaha.com/tags/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <loc>https://shirshendusaha.com/about/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shirshendusaha.com/archives/</loc>
   </url><url>
@@ -48,5 +30,9 @@
     <loc>https://shirshendusaha.com/projects/</loc>
   </url><url>
     <loc>https://shirshendusaha.com/search/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/series/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/tags/</loc>
   </url>
 </urlset>
