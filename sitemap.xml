@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://shirshendusaha.com/en/sitemap.xml</loc>
-    
-      <lastmod>2022-07-14T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://shirshendusaha.com/bn/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://shirshendusaha.com/posts/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shirshendusaha.com/</loc>
+    <lastmod>2022-07-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shirshendusaha.com/about/</loc>
+    <lastmod>2022-07-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shirshendusaha.com/archives/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/categories/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/contact/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/projects/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/search/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/series/</loc>
+  </url><url>
+    <loc>https://shirshendusaha.com/tags/</loc>
+  </url>
+</urlset>
